@@ -10,6 +10,8 @@
 
 /* 2. Global Styles */
 /* Global Styles: Reset default browser styles */
+/* Reset all elements to have no padding and margin */
+/* Reset all elements to have no padding and margin */
 *
 {
     padding: 0;
@@ -18,7 +20,10 @@
 
 /* 3. Header Navigation Styles */
 /* Header Navigation Styles: Style the header navigation bar */
-header_navigation {
+/* Style the header navigation */
+/* Style the header navigation bar */
+header
+{
     background-color: black;
     color: white;
     height: 65px;
@@ -30,21 +35,30 @@ header_navigation {
 }
 
 /* Header Navigation List Styles: Remove list styling */
-header_navigation ul{
+/* Remove list styling from the header navigation list */
+/* Remove list styling from the header navigation list */
+header ul
+{
     list-style-type: none;
 }
 
-/* 4. Game Wrapper Styles */
-/* Game Wrapper Styles: Center the game wrapper */
-.game_wrapper {
+/* 4. Game Container Styles */
+/* Game Container Styles: Center the game container */
+/* Center the game container horizontally */
+/* Center the game container horizontally */
+.game_container
+{
     display: flex;
     justify-content: center;
     margin-top: 50px;
 }
 
-/* 5. Grid Wrapper Styles */
-/* Grid Wrapper Styles: Create a 3x3 grid */
-.grid_wrapper{
+/* 5. Grid Container Styles */
+/* Grid Container Styles: Create a 3x3 grid */
+/* Create a 3x3 grid for the game */
+/* Create a 3x3 grid for the game */
+.grid_container
+{
     display: grid;
     grid-template-columns: repeat(3,10vw);
     grid-template-rows: repeat(3,10vw);
@@ -54,7 +68,10 @@ header_navigation ul{
 
 /* 6. Game Card Styles */
 /* Game Card Styles: Style individual game cards */
-.game_card {
+/* Style each game card */
+/* Style each game card */
+.game_card
+{
     border: 2px solid black;
     font-size: 8vw;
     cursor: pointer;
@@ -65,64 +82,94 @@ header_navigation ul{
 
 /* 7. Game Card Hover Styles */
 /* Game Card Hover Styles: Change background color on hover */
-.game_card:hover {
+/* Change the background color of the game card on hover */
+/* Change the background color of the game card on hover */
+.game_card:hover
+{
     background-color: rgb(242,234,250);
 }
 
 /* 8. Game Information Styles */
 /* Game Information Styles: Style game information text */
-.game_information {
+/* Style the game information text */
+/* Style the game information text */
+.game_information
+{
     font-size: 22px;
 }
 
 /* 9. Game Details Section Styles */
 /* Game Details Section Styles: Style the game details section */
-.game_details_section {
+/* Style the game details section */
+/* Style the game details section */
+.game_details_section
+{
     padding: 0 34px;
     font-family: 'Roboto', sans-serif;
 }
 
-/* 10. Game Details Section h1 Styles */
-/* Game Details Section h1 Styles: Style the game details section heading */
-.game_details_section h1 {
+/* 10. Game Details Section Heading Styles */
+/* Game Details Section Heading Styles: Style the game details section heading */
+/* Style the game details section heading */
+/* Style the game details section heading */
+.game_details_section h1
+{
     margin-bottom: 4px;
     font-size: 2.5rem;
 }
 
 /* 11. Image Container Styles */
 /* Image Container Styles: Style the image container */
-.image_container img {
+/* Style the image container */
+/* Style the image container */
+.image_container img
+{
    width: 0;
    transition: width 1s ease-in-out;
 }
 
 /* 12. No Right Border Styles */
 /* No Right Border Styles: Remove right border */
-.no_right_border {
+/* Remove the right border */
+/* Remove the right border */
+.no_right_border
+{
     border-right:0;
 }
 
 /* 13. No Left Border Styles */
 /* No Left Border Styles: Remove left border */
-.no_left_border {
+/* Remove the left border */
+/* Remove the left border */
+.no_left_border
+{
     border-left:0;
 }
 
 /* 14. No Top Border Styles */
 /* No Top Border Styles: Remove top border */
-.no_top_border {
+/* Remove the top border */
+/* Remove the top border */
+.no_top_border
+{
     border-top: 0;
 }
 
 /* 15. No Bottom Border Styles */
 /* No Bottom Border Styles: Remove bottom border */
-.no_bottom_border {
+/* Remove the bottom border */
+/* Remove the bottom border */
+.no_bottom_border
+{
     border-bottom: 0;
 }
 
 /* 16. Reset Game Button Styles */
 /* Reset Game Button Styles: Style the reset game button */
-.reset_game_button {
+/* Style the reset game button */
+/* Style the reset game button */
+.reset_game_button
+{
     margin: 0 23px;
     padding: 1px 18px;
     background: #f3e7f9;
@@ -135,7 +182,10 @@ header_navigation ul{
 
 /* 17. Winning Line Indicator Styles */
 /* Winning Line Indicator Styles: Style the winning line indicator */
-.winning_line_indicator {
+/* Style the winning line indicator */
+/* Style the winning line indicator */
+.winning_line_indicator
+{
     background-color: black;
     height: 3px;
     width: 0;
@@ -146,22 +196,35 @@ header_navigation ul{
 
 /* 18. Media Query for Small Screens */
 /* Media Query for Small Screens: Apply styles for small screens */
+/* Apply styles for small screens */
 @media screen and (max-width: 950px)
 {
-    /* Game Wrapper Styles for Small Screens */
-    .game_wrapper{
+    /* Game Container Styles for Small Screens */
+    /* Style the game container for small screens */
+    /* Style the game container for small screens */
+    .game_container
+    {
         flex-wrap: wrap;
     }
     /* Game Details Section Styles for Small Screens */
-    .game_details_section {
+    /* Style the game details section for small screens */
+    /* Style the game details section for small screens */
+    .game_details_section 
+    {
         margin-top: 34px;
     }
-    /* Game Details Section h1 Styles for Small Screens */
-    .game_details_section h1 {
+    /* Game Details Section Heading Styles for Small Screens */
+    /* Style the game details section heading for small screens */
+    /* Style the game details section heading for small screens */
+    .game_details_section h1 
+    {
         font-size: 1.5rem;
     }
-    /* Grid Wrapper Styles for Small Screens */
-    .grid_wrapper {
+    /* Grid Container Styles for Small Screens */
+    /* Style the grid container for small screens */
+    /* Style the grid container for small screens */
+    .grid_container 
+    {
         grid-template-columns: repeat(3,20vw);
     }
 }
