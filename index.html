@@ -1,22 +1,30 @@
 <!-- ================== Tic Tac Toe Game HTML Structure ================== -->
 <!-- ========================================================================================= -->
 <!-- 1. Document Type and Language Definition -->
+<!-- Defines the document type and language for the HTML structure -->
 <!DOCTYPE html>
 <!-- Defines the document type and language -->
 <html lang="en">
     <!-- 2. Head Section: Meta Data and Styling -->
+    <!-- Head section contains metadata about the document -->
     <head>
         <!-- Meta Data: Character Encoding and Viewport Settings -->
+        <!-- Sets character encoding for the document -->
         <meta charset="UTF-8">
+        <!-- Sets viewport settings for responsive design -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Link to External Stylesheet for Styling -->
+        <!-- Links to an external stylesheet for styling the document -->
         <link rel="stylesheet" href="style.css">
         <!-- Document Title -->
+        <!-- Sets the title of the document -->
         <title>Tic Tac Toe</title>
     </head>
     <!-- 3. Body Section: Content and Structure -->
+    <!-- Body section contains the content of the HTML document -->
     <body>
         <!-- Navigation Bar: Website Title -->
+        <!-- Navigation bar contains the website title -->
         <nav>
             <!-- Website title in navigation bar -->
             <ul>
@@ -24,12 +32,16 @@
             </ul>
         </nav>
         <!-- Game Container: Main Game Structure -->
+        <!-- Game container holds the main game structure -->
         <div class="game-container">
             <!-- Game Board Container: Tic Tac Toe Board -->
+            <!-- Game board container holds the Tic Tac Toe board -->
             <div class="board-container">
                 <!-- Horizontal Line for Board Visualization -->
+                <!-- Horizontal line for visualizing the game board -->
                 <div class="horizontal-line"></div>
                 <!-- Individual Game Boxes -->
+                <!-- Individual game boxes for the Tic Tac Toe board -->
                 <div class="game-box top-left"><span class="box-text"></span></div>
                 <div class="game-box top-center"><span class="box-text"></span></div>
                 <div class="game-box top-right"><span class="box-text"></span></div>
@@ -41,21 +53,26 @@
                 <div class="game-box bottom-right"><span class="box-text"></span></div>
             </div>
             <!-- Game Information and Controls: Game Status and User Interaction -->
+            <!-- Game information and controls for the game status and user interaction -->
             <div class="game-information">
                 <!-- Game Introduction and Instructions -->
+                <!-- Introduction and instructions for the game -->
                 <h1>Welcome to Tic Tac Toe!</h1>
                 <div>
                     <!-- Turn Information and Reset Button -->
+                    <!-- Turn information and reset button for the game -->
                     <span class="turn-info">Turn for X</span>
                     <button id="reset-button">reset</button>
                 </div>
                 <!-- Image Box for Additional Graphics -->
+                <!-- Image box for additional graphics -->
                 <div class="image-box">
                     <img src="excited.gif" alt="peachgoma">
                 </div>
             </div>
         </div>
         <!-- Script Import for Game Logic: External JavaScript File -->
+        <!-- Script import for the game logic from an external JavaScript file -->
         <script src="script.js"></script>
     </body>
 </html>
