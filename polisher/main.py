@@ -2,14 +2,14 @@ import os
 from dotenv import load_dotenv
 
 # Import your agents
-from refactor_agent import refactor_variable_names
-from comment_agent import add_file_comments
-from syntax_agent import fix_syntax_and_edges
-from summary_agent import generate_file_summary
-from security_agent import security_scan
-from readme_agent import update_readme
-from ignore_agent import manage_gitignore
-from git_agent import deploy_changes
+from .refactor_agent import refactor_variable_names
+from .comment_agent import add_file_comments
+from .syntax_agent import fix_syntax_and_edges
+from .summary_agent import generate_file_summary
+from .security_agent import security_scan
+from .readme_agent import update_readme
+from .ignore_agent import manage_gitignore
+from .git_agent import deploy_changes
 
 load_dotenv()
 
