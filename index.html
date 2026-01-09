@@ -1,39 +1,61 @@
+<!-- ================== Tic Tac Toe Game HTML Structure ================== -->
+<!-- ========================================================================================= -->
+<!-- 1. Document Type and Language Definition -->
 <!DOCTYPE html>
+<!-- Defines the document type and language -->
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Tic Tac Toe</title>
-</head>
-<body>
-    <nav>
-        <li>MyTicTacToe.com</li>
-    </nav>
-    <div class="gameContainer">
-        <div class="container">
-            <div class="line"></div>
-            <div class="box bt-0 bl-0"><span class="boxtext"></span></div>
-            <div class="box bt-0"><span class="boxtext"></span></div>
-            <div class="box bt-0 br-0"><span class="boxtext"></span></div>
-            <div class="box bl-0"><span class="boxtext"></span></div>
-            <div class="box"><span class="boxtext"></span></div>
-            <div class="box br-0"><span class="boxtext"></span></div>
-            <div class="box bl-0 bb-0"><span class="boxtext"></span></div>
-            <div class="box bb-0"><span class="boxtext"></span></div>
-            <div class="box bb-0 br-0"><span class="boxtext"></span></div>
-        </div>
-        <div class="gameInfo">
-            <h1>Welcome to Tic Tac Toe!</h1>
-            <div>
-                <span class="info">Turn for X</span>
-                <button id="reset">reset</button>
+    <!-- 2. Head Section: Meta Data and Styling -->
+    <head>
+        <!-- Meta Data: Character Encoding and Viewport Settings -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Link to External Stylesheet for Styling -->
+        <link rel="stylesheet" href="style.css">
+        <!-- Document Title -->
+        <title>Tic Tac Toe</title>
+    </head>
+    <!-- 3. Body Section: Content and Structure -->
+    <body>
+        <!-- Navigation Bar: Website Title -->
+        <nav>
+            <!-- Website title in navigation bar -->
+            <ul>
+                <li>MyTicTacToe.com</li>
+            </ul>
+        </nav>
+        <!-- Game Container: Main Game Structure -->
+        <div class="game-container">
+            <!-- Game Board Container: Tic Tac Toe Board -->
+            <div class="board-container">
+                <!-- Horizontal Line for Board Visualization -->
+                <div class="horizontal-line"></div>
+                <!-- Individual Game Boxes -->
+                <div class="game-box top-left"><span class="box-text"></span></div>
+                <div class="game-box top-center"><span class="box-text"></span></div>
+                <div class="game-box top-right"><span class="box-text"></span></div>
+                <div class="game-box middle-left"><span class="box-text"></span></div>
+                <div class="game-box middle-center"><span class="box-text"></span></div>
+                <div class="game-box middle-right"><span class="box-text"></span></div>
+                <div class="game-box bottom-left"><span class="box-text"></span></div>
+                <div class="game-box bottom-center"><span class="box-text"></span></div>
+                <div class="game-box bottom-right"><span class="box-text"></span></div>
             </div>
-            <div class="imgbox">
-                <img src="excited.gif" alt="peachgoma">
+            <!-- Game Information and Controls: Game Status and User Interaction -->
+            <div class="game-information">
+                <!-- Game Introduction and Instructions -->
+                <h1>Welcome to Tic Tac Toe!</h1>
+                <div>
+                    <!-- Turn Information and Reset Button -->
+                    <span class="turn-info">Turn for X</span>
+                    <button id="reset-button">reset</button>
+                </div>
+                <!-- Image Box for Additional Graphics -->
+                <div class="image-box">
+                    <img src="excited.gif" alt="peachgoma">
+                </div>
             </div>
         </div>
-    </div>
-    <script src="script.js"></script>
-</body>
+        <!-- Script Import for Game Logic: External JavaScript File -->
+        <script src="script.js"></script>
+    </body>
 </html>

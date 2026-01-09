@@ -1,69 +1,67 @@
-console.log("Welcome to Tic-Tac-Toe")
-let audioturn = new Audio ("ting.mp3")
-// let gameOver = new Audio ("")
-let turn = 'X'
-let isgameover = false
+console.log("Welcome to Tic-Tac-Toe");
+let turnSoundEffect = new Audio("ting.mp3");
+// let gameOverSound = new Audio("")
+let currentPlayerTurn = 'X';
+let isGameFinished = false;
 
-//Function to change the turn
-const changeTurn = ()=>{
-    return turn ==='X'? '0':'X';
+// Function to switch player turn
+const switchPlayerTurn = () => {
+    return currentPlayerTurn === 'X' ? 'O' : 'X';
 }
 
-//Function to check for win
-const checkWin =()=>{
-    let boxtext = document.getElementsByClassName("boxtext");
-    let wins =[
-        [0,1,2,5,5,0],
-        [3,4,5,5,15,0],
-        [6,7,8,5,25,0],
-        [0,3,6,-5,15,90],
-        [1,4,7,5,15,90],
-        [2,5,8,15,15,90],
-        [0,4,8,5,15,45],
-        [2,4,6,5,15,135],
+// Function to check for win
+const checkForWin = () => {
+    let boxTextElements = document.getElementsByClassName("boxtext");
+    let winningCombinations = [
+        [0, 1, 2, 5, 5, 0],
+        [3, 4, 5, 5, 15, 0],
+        [6, 7, 8, 5, 25, 0],
+        [0, 3, 6, -5, 15, 90],
+        [1, 4, 7, 5, 15, 90],
+        [2, 5, 8, 15, 15, 90],
+        [0, 4, 8, 5, 15, 45],
+        [2, 4, 6, 5, 15, 135],
     ]
-    wins.forEach(e=>{
-        if ((boxtext[e[0]].innerHTML === boxtext[e[1]].innerHTML && boxtext[e[2]].innerHTML === boxtext[e[1]].innerHTML) && (boxtext[e[1]].innerHTML !== "")) {
-            document.querySelector('.info').innerText = boxtext[e[0]].innerText + "Won";
-            isgameover = true;
+    winningCombinations.forEach(combination => {
+        if ((boxTextElements[combination[0]].innerHTML === boxTextElements[combination[1]].innerHTML && boxTextElements[combination[2]].innerHTML === boxTextElements[combination[1]].innerHTML) && (boxTextElements[combination[1]].innerHTML !== "")) {
+            document.querySelector('.info').innerText = boxTextElements[combination[0]].innerText + " Won";
+            isGameFinished = true;
             document.querySelector('.imgbox').getElementsByTagName('img')[0].style.width = "200px";
             document.querySelector(".line").style.width = "20vw";
-            document.querySelector(".line").style.transform = `translate(${e[3]}vw, ${e[4]}vw) rotate(${e[5]}deg)`
+            document.querySelector(".line").style.transform = `translate(${combination[3]}vw, ${combination[4]}vw) rotate(${combination[5]}deg)`
         }
     })
 }
 
 // Game logic
 
-
-
-// change the turn for in info class
-let boxes = Array.from(document.getElementsByClassName('box'));
-boxes.forEach(element => {
+// Change the turn for in info class
+let gameBoxes = Array.from(document.getElementsByClassName('box'));
+gameBoxes.forEach(element => {
     let boxText = element.querySelector('.boxtext');
-    element.addEventListener("click",()=>{
+    element.addEventListener("click", () => {
         if (boxText.innerText === '') {
-            boxText.innerText = turn;
-            turn = changeTurn();
-            audioturn.play();
-            checkWin();
-            if (!isgameover) {
-                document.getElementsByClassName("info")[0].innerText = "Turn for " + turn;
+            boxText.innerText = currentPlayerTurn;
+            currentPlayerTurn = switchPlayerTurn();
+            turnSoundEffect.play();
+            checkForWin();
+            if (!isGameFinished) {
+                document.getElementsByClassName("info")[0].innerText = "Turn for " + currentPlayerTurn;
             }
-        }        
+        }
     })
 });
 
 // Add on click listener to reset button
-let reset = document.getElementById("reset")
-reset.addEventListener('click',()=>{
-    let boxTexts = document.querySelectorAll('.boxtext');
-    Array.from(boxTexts).forEach(element=>{
+let resetButton = document.getElementById("reset");
+resetButton.addEventListener('click', () => {
+    let boxTextElements = document.querySelectorAll('.boxtext');
+    Array.from(boxTextElements).forEach(element => {
         element.innerText = ""
     })
-    turn = 'X';
-    isgameover = false;
-    document.getElementsByClassName("info")[0].innerText = "Turn for " + turn;
+    currentPlayerTurn = 'X';
+    isGameFinished = false;
+    document.getElementsByClassName("info")[0].innerText = "Turn for " + currentPlayerTurn;
     document.querySelector('.imgbox').getElementsByTagName('img')[0].style.width = "0px";
     document.querySelector(".line").style.width = "0vw";
 })

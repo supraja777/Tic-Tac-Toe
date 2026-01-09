@@ -1,10 +1,24 @@
+/* ========================================================================================= */
+/* ========================================================================================= */
+/* ====================================== CSS STYLES ====================================== */
+/* ========================================================================================= */
+/* ========================================================================================= */
+
+/* 1. Imports */
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&family=Varela+Round&display=swap');
-*{
+
+/* 2. Global Styles */
+/* Global Styles: Reset default browser styles */
+*
+{
     padding: 0;
     margin: 0;
 }
 
-nav {
+/* 3. Header Navigation Styles */
+/* Header Navigation Styles: Style the header navigation bar */
+header_navigation {
     background-color: black;
     color: white;
     height: 65px;
@@ -15,17 +29,22 @@ nav {
     font-family: 'Roboto', sans-serif;
 }
 
-nav ul{
+/* Header Navigation List Styles: Remove list styling */
+header_navigation ul{
     list-style-type: none;
 }
 
-.gameContainer {
+/* 4. Game Wrapper Styles */
+/* Game Wrapper Styles: Center the game wrapper */
+.game_wrapper {
     display: flex;
     justify-content: center;
     margin-top: 50px;
 }
 
-.container{
+/* 5. Grid Wrapper Styles */
+/* Grid Wrapper Styles: Create a 3x3 grid */
+.grid_wrapper{
     display: grid;
     grid-template-columns: repeat(3,10vw);
     grid-template-rows: repeat(3,10vw);
@@ -33,7 +52,9 @@ nav ul{
     position: relative;
 }
 
-.box {
+/* 6. Game Card Styles */
+/* Game Card Styles: Style individual game cards */
+.game_card {
     border: 2px solid black;
     font-size: 8vw;
     cursor: pointer;
@@ -42,46 +63,66 @@ nav ul{
     align-items: center;
 }
 
-.box:hover {
+/* 7. Game Card Hover Styles */
+/* Game Card Hover Styles: Change background color on hover */
+.game_card:hover {
     background-color: rgb(242,234,250);
 }
 
-.info {
+/* 8. Game Information Styles */
+/* Game Information Styles: Style game information text */
+.game_information {
     font-size: 22px;
 }
 
-.gameInfo {
+/* 9. Game Details Section Styles */
+/* Game Details Section Styles: Style the game details section */
+.game_details_section {
     padding: 0 34px;
     font-family: 'Roboto', sans-serif;
 }
 
-.gameInfo h1 {
+/* 10. Game Details Section h1 Styles */
+/* Game Details Section h1 Styles: Style the game details section heading */
+.game_details_section h1 {
     margin-bottom: 4px;
     font-size: 2.5rem;
 }
 
-.imgbox img {
+/* 11. Image Container Styles */
+/* Image Container Styles: Style the image container */
+.image_container img {
    width: 0;
    transition: width 1s ease-in-out;
 }
 
-.br-0 {
+/* 12. No Right Border Styles */
+/* No Right Border Styles: Remove right border */
+.no_right_border {
     border-right:0;
 }
 
-.bl-0 {
+/* 13. No Left Border Styles */
+/* No Left Border Styles: Remove left border */
+.no_left_border {
     border-left:0;
 }
 
-.bt-0 {
+/* 14. No Top Border Styles */
+/* No Top Border Styles: Remove top border */
+.no_top_border {
     border-top: 0;
 }
 
-.bb-0 {
+/* 15. No Bottom Border Styles */
+/* No Bottom Border Styles: Remove bottom border */
+.no_bottom_border {
     border-bottom: 0;
 }
 
-#reset {
+/* 16. Reset Game Button Styles */
+/* Reset Game Button Styles: Style the reset game button */
+.reset_game_button {
     margin: 0 23px;
     padding: 1px 18px;
     background: #f3e7f9;
@@ -92,7 +133,9 @@ nav ul{
     font-weight: bolder;
 }
 
-.line {
+/* 17. Winning Line Indicator Styles */
+/* Winning Line Indicator Styles: Style the winning line indicator */
+.winning_line_indicator {
     background-color: black;
     height: 3px;
     width: 0;
@@ -101,19 +144,24 @@ nav ul{
     transition: width 1s ease-in-out;
 }
 
+/* 18. Media Query for Small Screens */
+/* Media Query for Small Screens: Apply styles for small screens */
 @media screen and (max-width: 950px)
 {
-    .gameContainer{
+    /* Game Wrapper Styles for Small Screens */
+    .game_wrapper{
         flex-wrap: wrap;
     }
-    .gameInfo {
+    /* Game Details Section Styles for Small Screens */
+    .game_details_section {
         margin-top: 34px;
     }
-    .gameInfo h1 {
+    /* Game Details Section h1 Styles for Small Screens */
+    .game_details_section h1 {
         font-size: 1.5rem;
     }
-    .container {
-        grid-template-columns: repeat(3,20vw);
+    /* Grid Wrapper Styles for Small Screens */
+    .grid_wrapper {
         grid-template-columns: repeat(3,20vw);
     }
 }
