@@ -1,12 +1,12 @@
 console.log("Welcome to Tic-Tac-Toe");
 let turnSoundEffect = new Audio("ting.mp3");
 // let gameOverSound = new Audio("")
-let currentTurnPlayer = 'X';
+let currentPlayerTurn = 'X';
 let isGameCompleted = false;
 
 // Function to switch player turn
-const switchTurn = () => {
-    return currentTurnPlayer === 'X' ? 'O' : 'X';
+const switchPlayerTurn = () => {
+    return currentPlayerTurn === 'X' ? 'O' : 'X';
 }
 
 // Function to check for win
@@ -41,12 +41,12 @@ gameBoxes.forEach(element => {
     let boxText = element.querySelector('.boxtext');
     element.addEventListener("click", () => {
         if (boxText.innerText === '') {
-            boxText.innerText = currentTurnPlayer;
-            currentTurnPlayer = switchTurn();
+            boxText.innerText = currentPlayerTurn;
+            currentPlayerTurn = switchPlayerTurn();
             turnSoundEffect.play();
             checkForWin();
             if (!isGameCompleted) {
-                document.getElementsByClassName("info")[0].innerText = "Turn for " + currentTurnPlayer;
+                document.getElementsByClassName("info")[0].innerText = "Turn for " + currentPlayerTurn;
             }
         }
     })
@@ -59,9 +59,9 @@ resetButton.addEventListener('click', () => {
     Array.from(boxTextElements).forEach(element => {
         element.innerText = ""
     })
-    currentTurnPlayer = 'X';
+    currentPlayerTurn = 'X';
     isGameCompleted = false;
-    document.getElementsByClassName("info")[0].innerText = "Turn for " + currentTurnPlayer;
+    document.getElementsByClassName("info")[0].innerText = "Turn for " + currentPlayerTurn;
     document.querySelector('.imgbox').getElementsByTagName('img')[0].style.width = "0px";
     document.querySelector(".line").style.width = "0vw";
 })

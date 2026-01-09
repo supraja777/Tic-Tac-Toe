@@ -29,4 +29,1896 @@ Thumbs.db
 .env.production 
 *.env.local 
 *.env.staging 
-*.env.dev
+*.env.dev 
+*.pyo
+*.pyd
+__init__.py
+.ipynb_checkpoints
+staticfiles
+media
+coverage
+dist
+build
+*.spec
+*.sqlite3
+*.db
+instance
+.migration
+.migrations
+db.sqlite3
+db.json
+package-lock.json
+yarn.lock
+pipfile
+pipfile.lock
+requirements.txt
+static
+node_modules
+package.json
+yarn.error.log
+npm-debug.log
+yarn-debug.log
+yarn-integrity.log 
+env 
+env.example 
+env.test 
+env.production 
+env.local 
+env.staging 
+env.dev 
+env.sample 
+env.example 
+README.md 
+README 
+readme 
+readme.md 
+readme.txt 
+license 
+license.txt 
+license.md 
+CHANGELOG 
+changelog 
+changelog.md 
+changelog.txt 
+CONTRIBUTING 
+contributing 
+contributing.md 
+contributing.txt 
+HISTORY 
+history 
+history.md 
+history.txt 
+AUTHORS 
+authors 
+authors.md 
+authors.txt 
+version 
+version.txt 
+version.md 
+version.json 
+version.yaml 
+version.yml 
+version.toml 
+version.ini 
+version.properties 
+version.xml 
+version.js 
+version.py 
+version.sh 
+version.php 
+version.rb 
+version.java 
+version.c 
+version.cpp 
+version.cs 
+version.swift 
+version.go 
+version.kt 
+version.rs 
+version.scala 
+version.ts 
+version.js.map 
+version.css.map 
+version.scss.map 
+version.less.map 
+version.pcss.map 
+version.styl.map 
+version.sass.map 
+version.html.map 
+version.hbs 
+version.handlebars 
+version.mustache 
+version.pug 
+version.jade 
+version.ejs 
+version.nunjucks 
+version.twig 
+version.slim 
+version.haml 
+version.erb 
+version.jinja2 
+version.j2 
+version.mk 
+version.gyp 
+version.gypi 
+version.cmake 
+version.cpp 
+version.cc 
+version.cxx 
+version.m 
+version.mm 
+version.swift 
+version.go 
+version.rs 
+version.py 
+version.java 
+version.cs 
+version.js 
+version.ts 
+version.php 
+version.rb 
+version.sh 
+version.ksh 
+version.bash 
+version.zsh 
+version.fish 
+version.exe 
+version.bat 
+version.cmd 
+version.ps1 
+version.vbs 
+version.hta 
+version.html 
+version.htm 
+version.xhtml 
+version.xht 
+version.xml 
+version.svg 
+version.svgz 
+version.png 
+version.jpg 
+version.jpeg 
+version.gif 
+version.bmp 
+version.tiff 
+version.tif 
+version.webp 
+version.ico 
+version.cur 
+version.ani 
+version.json 
+version.yaml 
+version.yml 
+version.toml 
+version.ini 
+version.properties 
+version.xml 
+version.js 
+version.py 
+version.sh 
+version.php 
+version.rb 
+version.java 
+version.c 
+version.cpp 
+version.cs 
+version.swift 
+version.go 
+version.kt 
+version.rs 
+version.scala 
+version.ts 
+*.orig
+*.bak
+*.swp
+*.swo
+*.tmp
+*.log
+*.pid
+*.env
+*.lock
+*.db
+*.sqlite
+*.sql
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+*.toml
+*.ini
+*.conf
+*.cfg
+*.properties
+*.prop
+*.settings
+*.config
+*.env
+*.example
+*.test
+*.production
+*.local
+*.staging
+*.dev
+*.sample
+*.md
+*.txt
+*.rst
+*.docx
+*.pdf
+*.odt
+*.ott
+*.doc
+*.rtf
+*.odp
+*.otp
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.ods
+*.ots
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+*.toml
+*.ini
+*.conf
+*.cfg
+*.properties
+*.prop
+*.settings
+*.config
+*.git
+*.gitignore
+*.gitattributes
+*.gitmodules
+*.gitkeep
+*.keep
+*.ds_store
+*.apple
+*.Spotlight-V100
+*.Trashes
+*.ehthumbs.db
+*.thumbs.db
+*.ehthumbs
+*.thumb
+*.ds_store
+*.apple
+*.apple-double
+*.apple-single
+*.apdisk
+*.asv
+*.fpbf
+*.fpfl
+*.fpx
+*.fpxo
+*.fpxt
+*.fx
+*.fxo
+*.fxs
+*.fxv
+*.fxz
+*.git
+*.gitignore
+*.gitattributes
+*.gitmodules
+*.gitkeep
+*.keep
+*.ds_store
+*.apple
+*.Spotlight-V100
+*.Trashes
+*.ehthumbs.db
+*.thumbs.db
+*.ehthumbs
+*.thumb
+*.ds_store
+*.apple
+*.apple-double
+*.apple-single
+*.apdisk
+*.asv
+*.fpbf
+*.fpfl
+*.fpx
+*.fpxo
+*.fpxt
+*.fx
+*.fxo
+*.fxs
+*.fxv
+*.fxz
+*.nfs*
+*.nfs000000000000000000001
+*.nfs000000000000000000002
+*.nfs000000000000000000003
+*.nfs000000000000000000004
+*.nfs000000000000000000005
+*.nfs000000000000000000006
+*.nfs000000000000000000007
+*.nfs000000000000000000008
+*.nfs000000000000000000009
+*.nfs00000000000000000000a
+*.nfs00000000000000000000b
+*.nfs00000000000000000000c
+*.nfs00000000000000000000d
+*.nfs00000000000000000000e
+*.nfs00000000000000000000f
+*.nfs000000000000000000010
+*.nfs000000000000000000011
+*.nfs000000000000000000012
+*.nfs000000000000000000013
+*.nfs000000000000000000014
+*.nfs000000000000000000015
+*.tmp
+*.log
+*.pid
+*.env
+*.lock
+*.db
+*.sqlite
+*.sql
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+*.toml
+*.ini
+*.conf
+*.cfg
+*.properties
+*.prop
+*.settings
+*.config
+*.env
+*.example
+*.test
+*.production
+*.local
+*.staging
+*.dev
+*.sample
+*.md
+*.txt
+*.rst
+*.docx
+*.pdf
+*.odt
+*.ott
+*.doc
+*.rtf
+*.odp
+*.otp
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.ods
+*.ots
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+*.toml
+*.ini
+*.conf
+*.cfg
+*.properties
+*.prop
+*.settings
+*.config
+*.git
+*.gitignore
+*.gitattributes
+*.gitmodules
+*.gitkeep
+*.keep
+*.ds_store
+*.apple
+*.Spotlight-V100
+*.Trashes
+*.ehthumbs.db
+*.thumbs.db
+*.ehthumbs
+*.thumb
+*.ds_store
+*.apple
+*.apple-double
+*.apple-single
+*.apdisk
+*.asv
+*.fpbf
+*.fpfl
+*.fpx
+*.fpxo
+*.fpxt
+*.fx
+*.fxo
+*.fxs
+*.fxv
+*.fxz
+*.nfs*
+*.nfs000000000000000000001
+*.nfs000000000000000000002
+*.nfs000000000000000000003
+*.nfs000000000000000000004
+*.nfs000000000000000000005
+*.nfs000000000000000000006
+*.nfs000000000000000000007
+*.nfs000000000000000000008
+*.nfs000000000000000000009
+*.nfs00000000000000000000a
+*.nfs00000000000000000000b
+*.nfs00000000000000000000c
+*.nfs00000000000000000000d
+*.nfs00000000000000000000e
+*.nfs00000000000000000000f
+*.nfs000000000000000000010
+*.nfs000000000000000000011
+*.nfs000000000000000000012
+*.nfs000000000000000000013
+*.nfs000000000000000000014
+*.nfs000000000000000000015 
+# See https://www.toptal.com/developers/gitignore/api/python,html,js 
+# or https://gitignore.io/api/python,html,js 
+# for a list of files to ignore for python,html,js projects 
+# and https://github.com/github/gitignore for a general .gitignore template 
+# and https://git-scm.com/docs/gitignore for git documentation on .gitignore files 
+# and https://stackoverflow.com/questions/tagged/gitignore for stackoverflow questions on .gitignore files 
+# and https://www.atlassian.com/git/tutorials/saving-changes/gitignore for atlassian tutorials on .gitignore files 
+# and https://help.github.com/en/articles/ignoring-files for github documentation on .gitignore files 
+# and https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository for git book documentation on .gitignore files 
+# and https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/gitignore for tower documentation on .gitignore files 
+# and https://www.gitkraken.com/learn/git/gitignore for gitkraken documentation on .gitignore files 
+# and https://githowto.com/gitignore for githowto documentation on .gitignore files 
+# and https://www.gitignore.io/ for gitignore.io documentation on .gitignore files 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore for js .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore for python .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/HTML.gitignore for html .gitignore template 
+# and https://raw.githubusercontent.com/github/gitignore/master/JavaScript.gitignore for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python for python .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/html for html .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/js for js .gitignore template 
+# and https://gitignore.io/api/python for python .gitignore template 
+# and https://gitignore.io/api/html for html .gitignore template 
+# and https://gitignore.io/api/js for js .gitignore template 
+# and https://www.toptal.com/developers/gitignore/api/python,html,js for python,html,js .gitignore template 
+# and https://gitignore.io/api/python,html,js for python,html,js .gitignore template 
+# and https://github.com/github/gitignore/blob/master/Python.gitignore for python .gitignore template 
+# and https://github.com/github/gitignore/blob/master/HTML.gitignore for html .gitignore template 
+# and https://github.com/github/gitignore/blob/master/JavaScript.gitignore
