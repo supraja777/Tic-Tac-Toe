@@ -11,8 +11,12 @@ from .readme_agent import update_readme
 from .ignore_agent import manage_gitignore
 from .git_agent import deploy_changes
 
+current_dir = os.getcwd()
 # Force load .env from the directory where the user is running the command
-load_dotenv(os.path.join(os.getcwd(), '.env'))
+env_path = os.path.join(current_dir, '.env')
+
+# Load the file
+load_dotenv(dotenv_path=env_path)
 
 def get_all_files(root_dir):
     allowed_extensions = {'.py', '.js', '.html', '.css'}
